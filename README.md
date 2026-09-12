@@ -1,3 +1,3 @@
 # practicsprojects
-This is practics github repository
+This is practics github repository.
 Author-Tabraiz Hassan
